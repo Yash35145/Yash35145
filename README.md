@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hello , I am Yash Sanodiya
 🌏  born and raised in Bhopal.<br>🤝 looking to contribute to the open-source community.<br>🌱 currently learning Frontend Development.<br>⚡ Fun Fact - still struggling to build logic...🤪
 
 
